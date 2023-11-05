@@ -1,0 +1,33 @@
+:root {
+  --padding: 1rem;
+  --radius: 0.5rem;
+  --shadow: 0 0.25rem 0.5rem rgba(0, 170, 19, 0.1);
+  --transition: 0.2s ease-in-out;
+  --margin: 1rem;
+
+  /* Colors */
+  --primary: #00AA13;
+
+  --white: #FFFFFF;
+  --black: #101010;
+
+  --blue: #33BEDE;
+  --blue-dark: #144C59;
+  --blue-light: #ADE5f2;
+  
+  --gray: #b5b5b5;
+  --gray-light: #F0F0F0;
+  --gray-dark: #7e7e7e;
+
+  --red: #FF4D4D;
+  --red-dark: #FF0000;
+  --red-light: #FFBABA;
+
+  --yellow: #fed95f;
+  --yellow-dark: #FFC800;
+  --yellow-light: #FFF0BA;
+
+  --green: #5EFF5E;
+  --green-dark: #00FF00;
+  --green-light: #BAFFBA;
+}
